@@ -1,12 +1,7 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=ff3c00,ff6a00,ff8c00&height=160&section=header&text=Olá!%20Eu%20sou%20o%20Brenno%20Rodrigues&fontSize=36&fontColor=ff3c00&animation=fadeIn&fontAlignY=45&desc=Dev%20Back-End%20%26%20Dados%20%7C%20São%20Paulo%2C%20SP&descAlignY=65&descColor=ff8c00" width="100%"/>
-
-</div>
 
 ---
 
-### 🔴 Olá, sejam bem-vindos!
+### 🔴 Olá e sejam bem-vindos.
 
 Desenvolvedor back-end em formação, 3º semestre de ADS. Foco em **Python, FastAPI e PostgreSQL**, com experiência prática em sistemas com requisitos regulatórios brasileiros (LGPD, eSocial, INSS/IRRF). Técnico em Mecatrônica pela ETEC Getúlio Vargas.
 
