@@ -1,4 +1,10 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=ff3c00,ff6a00,ff8c00&height=160&section=header&text=Olá!%20Eu%20sou%20o%20Brenno%20Rodrigues&fontSize=36&fontColor=ff3c00&animation=fadeIn&fontAlignY=45&desc=Dev%20Back-End%20%26%20Dados%20%7C%20São%20Paulo%2C%20SP&descAlignY=65&descColor=ff8c00" width="100%"/>
+
+</div>
+
+---
 
 ### 🔴 Olá, sejam bem-vindos!
 
@@ -28,11 +34,10 @@ Desenvolvedor back-end em formação, 3º semestre de ADS. Foco em **Python, Fas
 
 <div align="center">
 
-<a href="mailto:brennorodriguesdasilveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3c00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:Brennorodriguesdasilveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3c00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="https://linkedin.com/in/Br3nnoR0drigues"><img src="https://img.shields.io/badge/LinkedIn-ff8c00?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=ff6a00,ff8c00,ffb347&height=100&section=footer" width="100%"/>
